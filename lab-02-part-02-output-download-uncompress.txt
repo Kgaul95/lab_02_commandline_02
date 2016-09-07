@@ -211,7 +211,10 @@ List the files in the directory you're currently in (which should be home).
 
 Copy and paste the output below.
 ----------
-
+Adlm			Documents		Movies			Things			mtec1002-lab-02		stuff.tar
+Adobe			Downloads		Music			__MACOSX		mtec1002-lab-02.zip	xgen
+Applications		Library			Pictures		google.html		pymel.log
+Desktop			MPLABXProjects		Public			isus			stuff
 
 
 ==========
@@ -229,7 +232,10 @@ Copy and paste the output below.
 
 Copy and paste the output below. (It should contain stuff.tar)
 ----------
-
+Adlm			Documents		Movies			Things			mtec1002-lab-02		stuff.tar
+Adobe			Downloads		Music			__MACOSX		mtec1002-lab-02.zip	xgen
+Applications		Library			Pictures		google.html		pymel.log
+Desktop			MPLABXProjects		Public			isus			stuff
 
 
 ==========
@@ -239,7 +245,10 @@ gzip stuff.tar
 
 List your files again.... you should have a new file with a .gz extension.  Copy and paste the output of your this below.
 ----------
-
+Adlm			Documents		Movies			Things			mtec1002-lab-02		stuff.tar.gz
+Adobe			Downloads		Music			__MACOSX		mtec1002-lab-02.zip	xgen
+Applications		Library			Pictures		google.html		pymel.log
+Desktop			MPLABXProjects		Public			isus			stuff
 
 
 ==========
@@ -253,7 +262,7 @@ Change your directory to mtec1002-lab-02.
 
 List the files.  Copy and paste the output below (stuff.tar.gz should be there).
 ----------
-
+books		logs		stuff.tar.gz	web
 
 ==========
 23. You should be in the lab directory.  Let's uncompress the file.
@@ -262,7 +271,8 @@ $ tar -xvf stuff.tar.gz
 
 List the files.  Copy and paste the output below (the folder, stuff, should be there).
 ----------
-
+x stuff/
+x stuff/hello.txt
 
 
 ==========
