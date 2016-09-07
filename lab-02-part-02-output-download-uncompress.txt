@@ -128,7 +128,8 @@ Output:  % Total    % Received % Xferd  Average Speed   Time    Time     Time  C
 
 Write the command you used to determine your directory.  Also, copy and paste the output below.
 ----------
-
+Command: pwd
+Output: /Users/student
 
 
 ==========
@@ -136,7 +137,7 @@ Write the command you used to determine your directory.  Also, copy and paste th
 
 Write the command that you used to change to your home directory.  If you were already in your home directory, write the command that you *would* have used to change to it!
 ----------
-
+cd Users/student
 
 
 ==========
@@ -152,7 +153,11 @@ Use ls to verify that it downloaded.
 
 Write down the command that you used to download the file below.  Additionally, write the output of the command below.
 ----------
+Command: curl -o mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
 
+Output: % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  935k  100  935k    0     0  1520k      0 --:--:-- --:--:-- --:--:-- 4371k
 
 
 ==========
