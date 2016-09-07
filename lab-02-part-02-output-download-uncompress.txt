@@ -165,7 +165,7 @@ Output: % Total    % Received % Xferd  Average Speed   Time    Time     Time  Cu
 
 Write down the command that you used to uncompress the file.
 ----------
-
+unzip mtec1002-lab-02.zip
 
 
 ==========
@@ -173,7 +173,7 @@ Write down the command that you used to uncompress the file.
 
 Copy and paste the output below.
 ----------
-
+books	logs	web
 
 
 ==========
@@ -184,7 +184,10 @@ We're going to mess around with archiving and compressing files.  We'll make a d
 
 Copy and paste the output below.
 ----------
-
+dlm			Documents		Movies			Things			mtec1002-lab-02		xgen
+Adobe			Downloads		Music			__MACOSX		mtec1002-lab-02.zip
+Applications		Library			Pictures		google.html		pymel.log
+Desktop			MPLABXProjects		Public			isus			stuff
 
 
 ==========
@@ -196,7 +199,7 @@ List the files in the directory you're currently in (which should be stuff).
 
 Copy and paste the output below.
 ----------
-
+hello.txt
 
 
 ==========
